@@ -6,30 +6,7 @@ HIERARCHICAL NOTEBOOK
 	random notes, and probably many more I  haven't thought of yet..
 	
 
-HOW TO GET lhnb?
-	http://nomi.cz/download/releases/lhnb/
-	http://git.nomi.cz/?p=tomi/lhnb;a=summary
 
-HOW TO GET hnb?
-	new releases and information about hnb will appear at hnb's home page
-	
-	http://sourceforge.net/projects/hnb/
-	
-INSTALLING hnb
-	if you've got a source release you must first compile hnb,..
-	see further down in this file for instructions.
-	
-	Windows
-		the windows binary distribution, is a .zip file	containing the
-		executable, this README file, an sample database, and the 
-		license for hnb's use. the binary is stand alone, so you can 
-		just copy it wherever you'd like it to reside.
-	Linux 
-		the Linux binary distribution is a .tar.gz file	containing the
-		executable, this README file, a an sample database, and the
-		license for hnb's use. The binary is dynamically linked 
-		against ncurses just place it anywhere in your path.. like
-		/usr/bin, /usr/local/bin or /home/user/bin
 		
 COMPILING hnb
 	
